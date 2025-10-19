@@ -1,50 +1,36 @@
-# ✨ Workflow: Perfil Dinâmico e Animação Snake ✨
-# Gera automaticamente a animação do "snake" e mantém seu perfil vivo no GitHub 🌱
-# Autor: Iker Brandão 💻
-
-name: 🐍 Generate Dynamic Snake Animation
+name: 🐍 Generate Snake Animation
 
 on:
-  # Executa todo dia às 6h da manhã (UTC)
   schedule:
-    - cron: "0 6 * * *"
-  # Permite execução manual
+    - cron: "0 0 * * *"  # Gera diariamente à meia-noite
   workflow_dispatch:
 
+permissions:
+  contents: write  # permite commits automáticos
+
 jobs:
-  build:
-    name: 🧩 Construir Snake Animation
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      # 1️⃣ Faz checkout do seu repositório
-      - name: 🔍 Clonando repositório
+      - name: 📥 Checkout
         uses: actions/checkout@v4
 
-      # 2️⃣ Gera as animações usando Platane/snk
-      - name: 🐍 Gerando animação da cobra
+      - name: 🐍 Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ikerbrandao
           outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
-            output/github-contribution-grid-snake-light.svg?palette=github-light
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3️⃣ Adiciona um toque de personalização
-      - name: ✨ Criando log bonito
+      - name: 🚀 Deploy Animation
         run: |
-          echo "============================================="
-          echo "🐍 Cobra gerada com sucesso!"
-          echo "💾 Arquivos salvos em: ./output/"
-          echo "🕒 Atualizado automaticamente todos os dias às 6h UTC"
-          echo "============================================="
-
-      # 4️⃣ Envia os arquivos gerados de volta ao repositório
-      - name: 🚀 Fazendo commit e push das mudanças
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: "GitHub Action Bot 🤖"
-          author_email: "actions@github.com"
-          message: "✨ Atualização automática: animação snake gerada!"
-          add: "output/*.svg"
+          mkdir -p output
+          mv dist/* output/
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: update snake animation" || echo "No changes"
+          git push
