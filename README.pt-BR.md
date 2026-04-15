@@ -1,0 +1,86 @@
+<div align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇺🇸-English-6A5ACD?style=for-the-badge" alt="English Version" />
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00D4FF&height=200&section=header&text=Iker%20Brandão&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%7C%20Builder%20de%20Produtos&descSize=20&descAlignY=58&descColor=E0E0FF" />
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6A5ACD&center=true&vCenter=true&width=650&lines=Construindo+produtos+que+resolvem+problemas+reais.;React+%2B+Node.js+%2B+Flutter+%2B+Firebase.;Transformando+ideias+em+experiências+digitais.;Sempre+entregando%2C+sempre+aprendendo." alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+### 🧑‍💻 Sobre Mim
+
+Sou um desenvolvedor autodidata focado em **construir produtos reais** do zero — da ideia à produção.
+Trabalho em toda a stack: interfaces web, serviços backend e aplicativos móveis multiplataforma.
+
+- ⚡ Construindo produtos SaaS escaláveis do início ao fim
+- 📱 Criando experiências mobile com **Flutter & Dart**
+- 🌐 Se aprofundando no ecossistema **React + Node.js + Firebase**
+- 💡 Interessado em design de produto, arquitetura de software e automação criativa
+
+---
+
+### 🛠️ Tecnologias
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,flutter,dart,javascript,vite,firebase,git,github&perline=5" />
+  </a>
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ikerbrandao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&locale=pt-br" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikerbrandao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400&locale=pt-br" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ikerbrandao&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikerbrandao/ikerbrandao/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikerbrandao/ikerbrandao/output/github-contribution-grid-snake.svg">
+    <img alt="Animação de contribuições - Snake" src="https://raw.githubusercontent.com/ikerbrandao/ikerbrandao/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 🌐 Contato
+
+<div align="center">
+  <a href="mailto:ikermagno@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ikerbrandao" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ikerbrandao&label=Visitas+no+Perfil&color=6A5ACD&style=for-the-badge" alt="Visitas no Perfil" />
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6A5ACD&height=100&section=footer" />

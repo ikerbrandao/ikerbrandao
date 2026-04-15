@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="README.pt-BR.md">
+    <img src="https://img.shields.io/badge/🇧🇷-Português-6A5ACD?style=for-the-badge" alt="Versão em Português" />
+  </a>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00D4FF&height=200&section=header&text=Iker%20Brandão&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Product%20Builder&descSize=20&descAlignY=58&descColor=E0E0FF" />
 
 <div align="center">
@@ -12,7 +18,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a self-taught developer focused on **building real products** from the ground up — from idea to production.  
+I'm a self-taught developer focused on **building real products** from the ground up — from idea to production.
 I work across the full stack: web interfaces, backend services, and cross-platform mobile apps.
 
 - ⚡ Building scalable SaaS products end-to-end
@@ -35,20 +41,12 @@ I work across the full stack: web interfaces, backend services, and cross-platfo
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ikerbrandao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikerbrandao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ikerbrandao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikerbrandao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ikerbrandao&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
----
-
-### 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikerbrandao&theme=tokyo-night&hide_border=true&area=true&area_color=6A5ACD" alt="Contribution Activity Graph" />
 </div>
 
 ---
