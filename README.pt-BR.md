@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6A5ACD&center=true&vCenter=true&width=650&lines=Construindo+produtos+que+resolvem+problemas+reais.;React+%2B+Node.js+%2B+Flutter+%2B+Firebase.;Transformando+ideias+em+experiências+digitais.;Sempre+entregando%2C+sempre+aprendendo." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Construindo+produtos+que+resolvem+problemas+reais.;React+%2B+Node.js+%2B+Flutter+%2B+Firebase.;Transformando+ideias+em+experiências+digitais.;Sempre+entregando%2C+sempre+aprendendo." alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,9 +16,13 @@
 
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Sobre+Mim&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Sobre+Mim&fontSize=28&fontColor=00D4FF&fontAlign=50&fontAlignY=80" />
 </div>
+
+<br/>
 
 Sou um desenvolvedor autodidata focado em **construir produtos reais** do zero — da ideia à produção.
 Trabalho em toda a stack: interfaces web, serviços backend e aplicativos móveis multiplataforma.
@@ -28,11 +32,17 @@ Trabalho em toda a stack: interfaces web, serviços backend e aplicativos móvei
 - 🌐 Se aprofundando no ecossistema **React + Node.js + Firebase**
 - 💡 Interessado em design de produto, arquitetura de software e automação criativa
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Tecnologias&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Tecnologias&fontSize=28&fontColor=00D4FF&fontAlign=50&fontAlignY=80" />
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -40,26 +50,40 @@ Trabalho em toda a stack: interfaces web, serviços backend e aplicativos móvei
   </a>
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Estatísticas&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Estatísticas&fontSize=28&fontColor=00D4FF&fontAlign=50&fontAlignY=80" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikerbrandao&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikerbrandao&theme=tokyonight" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ikerbrandao&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contribuições&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contribuições&fontSize=28&fontColor=00D4FF&fontAlign=50&fontAlignY=80" />
 </div>
+
+<br/>
 
 <p align="center">
   <picture>
@@ -69,11 +93,17 @@ Trabalho em toda a stack: interfaces web, serviços backend e aplicativos móvei
   </picture>
 </p>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contato&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contato&fontSize=28&fontColor=00D4FF&fontAlign=50&fontAlignY=80" />
 </div>
+
+<br/>
 
 <div align="center">
   <a href="mailto:ikermagno@gmail.com" target="_blank">
@@ -85,7 +115,11 @@ Trabalho em toda a stack: interfaces web, serviços backend e aplicativos móvei
   </a>
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ikerbrandao&label=Visitas+no+Perfil&color=6A5ACD&style=for-the-badge" alt="Visitas no Perfil" />

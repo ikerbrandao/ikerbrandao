@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6A5ACD&center=true&vCenter=true&width=650&lines=Building+products+that+solve+real+problems.;React+%2B+Node.js+%2B+Flutter+%2B+Firebase.;Turning+ideas+into+digital+experiences.;Always+shipping%2C+always+learning." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+products+that+solve+real+problems.;React+%2B+Node.js+%2B+Flutter+%2B+Firebase.;Turning+ideas+into+digital+experiences.;Always+shipping%2C+always+learning." alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,9 +16,13 @@
 
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=About+Me&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=About+Me&fontSize=28&fontColor=00D4FF&fontAlign=50&fontAlignY=80" />
 </div>
+
+<br/>
 
 I'm a self-taught developer focused on **building real products** from the ground up — from idea to production.
 I work across the full stack: web interfaces, backend services, and cross-platform mobile apps.
@@ -28,11 +32,17 @@ I work across the full stack: web interfaces, backend services, and cross-platfo
 - 🌐 Deep diving into the **React + Node.js + Firebase** ecosystem
 - 💡 Interested in product design, software architecture, and creative automation
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Tech+Stack&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Tech+Stack&fontSize=28&fontColor=00D4FF&fontAlign=50&fontAlignY=80" />
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -40,26 +50,40 @@ I work across the full stack: web interfaces, backend services, and cross-platfo
   </a>
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=GitHub+Stats&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=GitHub+Stats&fontSize=28&fontColor=00D4FF&fontAlign=50&fontAlignY=80" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikerbrandao&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikerbrandao&theme=tokyonight" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ikerbrandao&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contributions&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contributions&fontSize=28&fontColor=00D4FF&fontAlign=50&fontAlignY=80" />
 </div>
+
+<br/>
 
 <p align="center">
   <picture>
@@ -69,11 +93,17 @@ I work across the full stack: web interfaces, backend services, and cross-platfo
   </picture>
 </p>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contact&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contact&fontSize=28&fontColor=00D4FF&fontAlign=50&fontAlignY=80" />
 </div>
+
+<br/>
 
 <div align="center">
   <a href="mailto:ikermagno@gmail.com" target="_blank">
@@ -85,7 +115,11 @@ I work across the full stack: web interfaces, backend services, and cross-platfo
   </a>
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ikerbrandao&label=Profile+Views&color=6A5ACD&style=for-the-badge" alt="Profile Views" />
