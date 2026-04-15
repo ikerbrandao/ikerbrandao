@@ -16,7 +16,9 @@
 
 ---
 
-### 🧑‍💻 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=About+Me&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+</div>
 
 I'm a self-taught developer focused on **building real products** from the ground up — from idea to production.
 I work across the full stack: web interfaces, backend services, and cross-platform mobile apps.
@@ -28,7 +30,9 @@ I work across the full stack: web interfaces, backend services, and cross-platfo
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Tech+Stack&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+</div>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -38,11 +42,13 @@ I work across the full stack: web interfaces, backend services, and cross-platfo
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=GitHub+Stats&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+</div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ikerbrandao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikerbrandao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikerbrandao&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikerbrandao&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -51,7 +57,9 @@ I work across the full stack: web interfaces, backend services, and cross-platfo
 
 ---
 
-### 🐍 Contributions
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contributions&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+</div>
 
 <p align="center">
   <picture>
@@ -63,7 +71,9 @@ I work across the full stack: web interfaces, backend services, and cross-platfo
 
 ---
 
-### 🌐 Contact
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contact&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+</div>
 
 <div align="center">
   <a href="mailto:ikermagno@gmail.com" target="_blank">

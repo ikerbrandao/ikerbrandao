@@ -16,7 +16,9 @@
 
 ---
 
-### 🧑‍💻 Sobre Mim
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Sobre+Mim&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+</div>
 
 Sou um desenvolvedor autodidata focado em **construir produtos reais** do zero — da ideia à produção.
 Trabalho em toda a stack: interfaces web, serviços backend e aplicativos móveis multiplataforma.
@@ -28,7 +30,9 @@ Trabalho em toda a stack: interfaces web, serviços backend e aplicativos móvei
 
 ---
 
-### 🛠️ Tecnologias
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Tecnologias&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+</div>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -38,11 +42,13 @@ Trabalho em toda a stack: interfaces web, serviços backend e aplicativos móvei
 
 ---
 
-### 📊 Estatísticas do GitHub
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Estatísticas&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+</div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ikerbrandao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&locale=pt-br" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikerbrandao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400&locale=pt-br" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikerbrandao&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikerbrandao&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -51,7 +57,9 @@ Trabalho em toda a stack: interfaces web, serviços backend e aplicativos móvei
 
 ---
 
-### 🐍 Contribuições
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contribuições&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+</div>
 
 <p align="center">
   <picture>
@@ -63,7 +71,9 @@ Trabalho em toda a stack: interfaces web, serviços backend e aplicativos móvei
 
 ---
 
-### 🌐 Contato
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=50&text=Contato&fontSize=28&fontColor=6A5ACD&fontAlign=50&fontAlignY=80" />
+</div>
 
 <div align="center">
   <a href="mailto:ikermagno@gmail.com" target="_blank">
