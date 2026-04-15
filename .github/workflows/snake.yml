@@ -1,17 +1,17 @@
-name: 🐍 Generate Snake Animation
+name: 🐍 Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Gera diariamente à meia-noite
+    - cron: "0 0 * * *"  # Diariamente à meia-noite UTC
   workflow_dispatch:
 
 permissions:
-  contents: write  # permite commits automáticos
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: 📥 Checkout
@@ -20,17 +20,17 @@ jobs:
       - name: 🐍 Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ikerbrandao
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: 🚀 Deploy Animation
+      - name: 🚀 Push to Output Branch
         run: |
-          mkdir -p output
-          mv dist/* output/
+          cd dist
+          git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "chore: update snake animation" || echo "No changes"
-          git push
+          git commit -m "chore: update snake animation [skip ci]"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:output

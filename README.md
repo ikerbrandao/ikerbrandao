@@ -1,116 +1,88 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="coding gif"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00D4FF&height=200&section=header&text=Iker%20Brandão&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Product%20Builder&descSize=20&descAlignY=58&descColor=E0E0FF" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Iker+Brandão!;Desenvolvedor+em+formação.;Entusiasta+de+React+e+Firebase.;Criador+do+projeto+2Easy.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6A5ACD&center=true&vCenter=true&width=650&lines=Building+products+that+solve+real+problems.;React+%2B+Node.js+%2B+Flutter+%2B+Firebase.;Turning+ideas+into+digital+experiences.;Always+shipping%2C+always+learning." alt="Typing SVG" />
   </a>
 </div>
 
----
-
-### 👋 Sobre Mim
-
-Sou um estudante de **empreendedorismo** e **apaixonado por tecnologia**, sempre buscando novas formas de transformar ideias em soluções reais.  
-Atualmente, estou me aprofundando no **ecossistema React + Firebase** e no desenvolvimento de produtos digitais.
-
-- 🌱 Explorando o mundo do desenvolvimento web moderno.  
-- 🚀 Trabalhando no meu projeto SaaS: **2Easy**.  
-- 💡 Interesse em design, arquitetura de software e automações criativas.  
+<br/>
 
 ---
 
-### ⚡ Status do Desenvolvedor
+### 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status%3A-Codando%20com%20café%20☕-6A5ACD?style=for-the-badge"/>
-  <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Organizando+ideias...;Construindo+algo+novo...;Depurando+bugs...;Refatorando+código+com+estilo!"/>
-</div>
+I'm a self-taught developer focused on **building real products** from the ground up — from idea to production.  
+I work across the full stack: web interfaces, backend services, and cross-platform mobile apps.
+
+- ⚡ Building scalable SaaS products end-to-end
+- 📱 Crafting mobile experiences with **Flutter & Dart**
+- 🌐 Deep diving into the **React + Node.js + Firebase** ecosystem
+- 💡 Interested in product design, software architecture, and creative automation
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,vite,tailwind,firebase,git,github,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,flutter,dart,javascript,vite,firebase,git,github&perline=5" />
   </a>
 </div>
 
 ---
 
-### 🧠 Frase Motivacional do Dia
-
-> 💬 *“O código é poesia escrita com lógica.”*  
-> *(Atualizado automaticamente por GitHub Actions)*
-
----
-
-### 📅 Citação do Dia
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citação do Dia"/>
-</div>
-
----
-
-### 📊 Estatísticas e Jornada no GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ikerbrandao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikerbrandao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ikerbrandao&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
 ---
 
-### 🐍 Minhas Contribuições
+### 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikerbrandao&theme=tokyo-night&hide_border=true&area=true&area_color=6A5ACD" alt="Contribution Activity Graph" />
+</div>
+
+---
+
+### 🐍 Contributions
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikerbrandao/ikerbrandao/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikerbrandao/ikerbrandao/output/github-contribution-grid-snake.svg">
-    <img alt="Animação de contribuições - Snake" src="https://raw.githubusercontent.com/ikerbrandao/ikerbrandao/output/github-contribution-grid-snake.svg">
+    <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/ikerbrandao/ikerbrandao/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
-
 ---
 
-### 🚀 Projeto em Destaque: 2Easy
-
-<div align="center">
-  <h3>📚 2Easy</h3>
-  <p>
-    Uma agenda escolar digital inteligente, projetada para otimizar a comunicação e a organização entre escolas, professores e alunos.  
-    <br>
-    <i>(Repositório público em breve!)</i>
-  </p>
-</div>
-
----
-
-### 🌐 Onde Me Encontrar
+### 🌐 Contact
 
 <div align="center">
   <a href="mailto:ikermagno@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/ikerbrandao" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikerbrandao&label=Visitas+no+Perfil&color=6A5ACD&style=flat-square" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=ikerbrandao&label=Profile+Views&color=6A5ACD&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<br>
+<br/>
 
-<div align="center">
-  <sub>Feito com 💜 e café ☕ — Atualizado automaticamente por GitHub Actions</sub>
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6A5ACD&height=100&section=footer" />
